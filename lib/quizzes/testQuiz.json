@@ -1,0 +1,1 @@
+[{"type":"list","name":"question-1","message":"Q1","choices":["a","b","c"]},{"type":"list","name":"question-2","message":"Q2","choices":["a","b","c"]},{"type":"list","name":"question-3","message":"Q3","choices":["a","b","c"]},{"type":"list","name":"question-4","message":"Q4","choices":["a","b","c"]}]

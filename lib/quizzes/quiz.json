@@ -1,0 +1,29 @@
+[
+    {
+        "type": "list",
+        "name": "question-1",
+        "message": "Question One",
+        "choices": [
+            "TRUE",
+            "FALSE"
+        ]
+    },
+    {
+        "type": "list",
+        "name": "question-2",
+        "message": "Question Two",
+        "choices": [
+            "Right Answer",
+            "Wrong Answer"
+        ]
+    },
+    {
+        "type": "list",
+        "name": "question-3",
+        "message": "Question Three",
+        "choices": [
+            "Incorrect",
+            "Correct"
+        ]
+    }
+]

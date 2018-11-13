@@ -1,0 +1,29 @@
+[
+    {
+        "type": "list",
+        "name": "question-1",
+        "message": "What... is your name?",
+        "choices": [
+            "T",
+            "F"
+        ]
+    },
+    {
+        "type": "list",
+        "name": "question-2",
+        "message": "What... is your quest?",
+        "choices": [
+            "T",
+            "F"
+        ]
+    },
+    {
+        "type": "list",
+        "name": "question-3",
+        "message": "What... is your favorite color?",
+        "choices": [
+            "T",
+            "F"
+        ]
+    }
+]
